@@ -1,2 +1,13 @@
-theme: jekyll-theme-cayman
-remote_theme: andrewbanchich/spectral-jekyll-theme
+---
+remote_theme: canterburytc/theme
+
+# Site settings
+title: Canterbury Tennis Club
+email: canterburytc@gmail.com
+description: Canterbury Tennis Club, a tennis club in an Eastern suburb of Melbourne, Victoria, Australia.
+logo: assets/images/logo-8bit-depth.png
+# baseurl: "" # the subpath of your site, e.g. /blog
+# url: "http://127.0.0.1:4000" # the base hostname & protocol for your site
+
+# Social settings
+facebook_url: https://www.facebook.com/Canterbury-tennis-club-104361911138877
