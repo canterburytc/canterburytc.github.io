@@ -2,7 +2,7 @@
 
 ## Membership Entitlements
 
-* Use of courts when available – refer to Court Availability
+* Use of courts when available (refer to [Court Availability](court_availability))
 * Use of court floodlights
 * Free participation in weekend team competition
 * Free entry to Club Championships
