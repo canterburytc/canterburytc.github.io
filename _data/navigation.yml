@@ -1,0 +1,37 @@
+---
+toc:
+  - title: Canterbury Tennis Club
+    url: /
+    subpages:
+      - title: Contact Us
+        url: /contact
+      - title: Committee
+        url: /committee
+      - title: Child Safe Standards
+        url: /child_safe_standards
+      - title: Sponsors
+        url: /sponsors
+  - title: Membership
+    url: /membership
+  - title: Coaching
+    url: /coaching
+  - title: News & Events
+    url: /news
+  - title: Competition
+    url: /competition
+    subpages:
+      - title: Night Competition
+        url: /competition/night
+      - title: Junior Competition
+        url: /competition/junior
+      - title: Senior Competition
+        url: /competition/senior
+      - title: Mid-week Competition
+        url: /competition/mid_week
+  - title: Court Availability
+    url: /court_availability
+    subpages:
+      - title: Social Tennis
+        url: /social_tennis
+      - title: Court Use Calendar
+        url: /court_availability
