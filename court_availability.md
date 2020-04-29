@@ -23,6 +23,7 @@ This information is a guide only.  The Club will at times run events, e.g. Socia
 
 Please note that there is a $5 per non-member/guest fee, and $10 per hour/court fee for utilising the lights at night.  Please deposit these fees to the Club bank account (PayID: canterburytc@gmail.com) with the date and time, and member name in the description of the deposit.
 
+<a name="calendar"></a>
 ## Court calendar
 
 The Google calendar below shows the court usage for specific dates, or you can <a href="https://calendar.google.com/calendar/b/1/embed?wkst=2&ctz=Australia%2FMelbourne&src=Y2FudGVyYnVyeXRjQGdtYWlsLmNvbQ&src=aWRtNmQ2aG9sNHM1NjFvcm90ZTQ2YnNncmtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&src=N2UycDAxaGo4NW1zNGlhM3ZlODhsbHFiZmdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%239D7000&color=%233366CC&color=%23871111&hl=en_GB&showCalendars=1&mode=WEEK" target="_blank">⧉ open it in a new window</a>.

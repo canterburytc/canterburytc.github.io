@@ -4,6 +4,10 @@
 
 Email: [canterburytc@gmail.com](mailto:canterburytc@gmail.com)
 
+## Committee
+
+See the [committee](committee) page.
+
 <a name="address"></a>
 ## Address
 
