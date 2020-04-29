@@ -5,6 +5,8 @@ toc:
     subpages:
       - title: Contact Us
         url: /contact
+      - title: Locate Us
+        url: /contact#address
       - title: Committee
         url: /committee
       - title: Child Safe Standards
